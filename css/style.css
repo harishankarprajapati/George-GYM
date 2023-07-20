@@ -627,6 +627,7 @@ a.nav-link.sec-li-small2 {
     background-image: url(../images/about-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
+    padding: 0;
 
 }
 
@@ -1079,4 +1080,7 @@ a.nav-link.sec-tab-h {
     line-height: 233.688%;
     padding: 0;
     margin: 0;
+}
+#cont-form{
+    padding-top: 50px;
 }
