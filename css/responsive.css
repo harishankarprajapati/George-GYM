@@ -355,6 +355,10 @@ a.nav-link.sec-tab-h {
 .sec-btn-form {
   margin-bottom: 50px;
 }
+.see-colum-v{
+  display: flex;
+  flex-direction: column-reverse;
+}
 }
 
 

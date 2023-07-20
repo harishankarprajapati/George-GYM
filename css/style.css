@@ -1115,7 +1115,3 @@ button.close {
     line-height: normal;
     text-transform: uppercase;
 }
-.see-colum-v{
-    display: flex;
-    flex-direction: column-reverse;
-}
