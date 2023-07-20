@@ -262,6 +262,7 @@ a.nav-link.sec-li-small2 {
     padding: 15px 30px;
     font-size: 18px;
     font-style: normal;
+    border: none;
     font-weight: 600;
     line-height: normal;
     text-transform: uppercase;
@@ -818,6 +819,7 @@ textarea.message {
     font-style: normal;
     font-weight: 600;
     line-height: normal;
+    float: left;
     text-transform: uppercase;
 }
 
@@ -1083,4 +1085,33 @@ a.nav-link.sec-tab-h {
 }
 #cont-form{
     padding-top: 50px;
+}
+/* modal */
+.modal-content {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    color: var(--bs-modal-color);
+    pointer-events: auto;
+    background-color: #dfdfdf;
+    background-clip: padding-box;
+    border: var(--bs-modal-border-width) solid var(--bs-modal-border-color);
+    border-radius: var(--bs-modal-border-radius);
+    outline: 0;
+}
+button.close {
+    background: #036BB0;
+    color: #fff;
+    border: none;
+}
+.modal-title {
+    font-family: 'Syne';
+    font-size: 24px;
+    color: #000;
+    font-style: normal;
+    border: none;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
 }
