@@ -175,7 +175,7 @@ a.nav-link.sec-li-small2 {
 
 .sec-push-bg {
     background-color: #000;
-    padding-top: 250px;
+    padding-top: 280px;
     position: relative;
     padding-bottom: 60px;
 }
@@ -192,7 +192,7 @@ a.nav-link.sec-li-small2 {
 }
 
 .sec-push-bg::after {
-    content: " ";
+    content: "sport ";
     background-image: url(../images/sport.png);
     background-repeat: no-repeat;
     width: 139px;
@@ -200,6 +200,13 @@ a.nav-link.sec-li-small2 {
     position: absolute;
     left: 0;
     top: 250px;
+    color: rgba(0, 254, 120, 0.00);
+font-family: 'Syne';
+font-size: 200px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+text-transform: uppercase;
 }
 
 .sec-push-bg::before {
@@ -207,7 +214,7 @@ a.nav-link.sec-li-small2 {
     background-image: url(../images/ess.png);
     background-repeat: no-repeat;
     width: 139px;
-    height: 1163px;
+    height: 1400px;
     position: absolute;
     right: 0;
     bottom: -520px;
@@ -356,7 +363,7 @@ a.nav-link.sec-li-small2 {
     line-height: 190%;
 }
 
-.sec-woo-bgg::after {
+.sec-woo-bgg::before {
     content: " ";
     background-image: url(../images/sport2.png);
     background-repeat: no-repeat;
@@ -364,7 +371,12 @@ a.nav-link.sec-li-small2 {
     height: 137px;
     position: absolute;
     right: 0;
+    z-index: 10;
     bottom: 43px;
+}
+.sec-img-boagyd{
+    position: relative;
+    z-index: 99;
 }
 
 .sec-woo-bgg {
@@ -376,7 +388,7 @@ a.nav-link.sec-li-small2 {
     background-image: url(../images/gallery-bgg.png);
     background-repeat: no-repeat;
     background-size: cover;
-    padding: 60px 0px;
+    padding: 70px 0px;
 }
 
 .sec-boo-slid-h {
@@ -506,7 +518,7 @@ a.nav-link.sec-li-small2 {
     content: " ";
     background-image: url(../images/Success.png);
     background-repeat: no-repeat;
-    width: 1061px;
+    width: 1500px;
     height: 137px;
     position: absolute;
     left: 0;
@@ -597,7 +609,7 @@ a.nav-link.sec-li-small2 {
 .sec-copy-p {
     color: #FFF;
     font-family: 'Roboto';
-    font-size: 20px;
+    font-size: 16px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -607,7 +619,7 @@ a.nav-link.sec-li-small2 {
     color: #FFF;
     text-align: right;
     font-family: 'Roboto';
-    font-size: 20px;
+    font-size: 16px;
     font-style: normal;
     font-weight: 400;
     text-align: right;

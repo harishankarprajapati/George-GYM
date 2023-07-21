@@ -236,7 +236,7 @@
 }
 .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
     background: transparent;
-    font-size: 32px;
+    font-size: 40px;
     font-family: 'Roboto';
     color: #036BB0;
 }
@@ -249,7 +249,7 @@
     position: relative;
     z-index: 99;
     margin-left: 46px !important;
-    margin-top: -79px !important;
+    margin-top: -87px !important;
 }
 .owl-theme .owl-dots, .owl-theme .owl-nav {
     text-align: left !important;
