@@ -399,6 +399,8 @@ text-transform: uppercase;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
+    padding: 20px 0px 0px 0px;
+    margin-bottom: -30px;
     text-transform: uppercase;
 }
 
