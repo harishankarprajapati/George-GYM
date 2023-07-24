@@ -99,6 +99,7 @@ a.nav-link.sec-li-small2 {
     background-size: cover;
     padding: 384px 50px 123px 50px;
 }
+
 .sec-slider-bgg2 {
     background-image: url(../images/Banner-Slider-2.png);
     background-repeat: no-repeat;
@@ -208,12 +209,12 @@ a.nav-link.sec-li-small2 {
     left: 0;
     top: 250px;
     color: rgba(0, 254, 120, 0.00);
-font-family: 'Syne';
-font-size: 200px;
-font-style: normal;
-font-weight: 800;
-line-height: normal;
-text-transform: uppercase;
+    font-family: 'Syne';
+    font-size: 200px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-transform: uppercase;
 }
 
 .sec-push-bg::before {
@@ -381,7 +382,8 @@ text-transform: uppercase;
     z-index: 10;
     bottom: 43px;
 }
-.sec-img-boagyd{
+
+.sec-img-boagyd {
     position: relative;
     z-index: 99;
 }
@@ -1105,9 +1107,11 @@ a.nav-link.sec-tab-h {
     padding: 0;
     margin: 0;
 }
-#cont-form{
+
+#cont-form {
     padding-top: 50px;
 }
+
 /* modal */
 .modal-content {
     position: relative;
@@ -1122,11 +1126,13 @@ a.nav-link.sec-tab-h {
     border-radius: var(--bs-modal-border-radius);
     outline: 0;
 }
+
 button.close {
     background: #036BB0;
     color: #fff;
     border: none;
 }
+
 .modal-title {
     font-family: 'Syne';
     font-size: 24px;
@@ -1137,15 +1143,19 @@ button.close {
     line-height: normal;
     text-transform: uppercase;
 }
-.sec-ft-tt{
+
+.sec-ft-tt {
     text-align: center;
 }
-.sec-pp-t{
+
+.sec-pp-t {
     font-size: 20px;
 }
-.sec-pp-t22 ul li{
+
+.sec-pp-t22 ul li {
     font-size: 20px;
 }
+
 img.sec-img-dot {
     width: 100% !important;
 }
