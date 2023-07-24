@@ -360,7 +360,7 @@ a.nav-link.sec-tab-h {
   flex-direction: column-reverse;
 }
 .sec-pp-t22{
-  padding: 20px;
+  padding: 20px !important;
 }
 }
 
