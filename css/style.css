@@ -613,6 +613,7 @@ text-transform: uppercase;
 .sec-hr-footer {
     opacity: 1;
     padding: 20px 0px;
+    margin-top: 50px;
 }
 
 .sec-copy-p {
@@ -1135,4 +1136,7 @@ button.close {
     font-weight: 700;
     line-height: normal;
     text-transform: uppercase;
+}
+.sec-ft-tt{
+    text-align: center;
 }
