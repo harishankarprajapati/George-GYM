@@ -382,7 +382,10 @@ a.nav-link.sec-tab-h {
 .sec-space-left-right {
   padding: 0px 30px;
 }
-
+.sec-ft-tt {
+  text-align: left;
+  padding-top: 9px;
+}
 }
 
 
