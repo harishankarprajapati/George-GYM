@@ -1146,3 +1146,6 @@ button.close {
 .sec-pp-t22 ul li{
     font-size: 20px;
 }
+img.sec-img-dot {
+    width: 100% !important;
+}
