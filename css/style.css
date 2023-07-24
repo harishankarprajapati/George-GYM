@@ -99,6 +99,13 @@ a.nav-link.sec-li-small2 {
     background-size: cover;
     padding: 384px 50px 123px 50px;
 }
+.sec-slider-bgg2 {
+    background-image: url(../images/Banner-Slider-2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 384px 50px 123px 50px;
+}
+
 
 .sectrans-h {
     color: #FFF;
